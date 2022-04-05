@@ -5,6 +5,7 @@ modifier: TidGiUser
 tags: TempToDel $:/plugins/linonetwo/sub-wiki/readme Index
 title: 新条目
 tmap.id: ccff9a40-8c45-48c5-bfad-0c2b0e0e80d1
+tmap.style: {}
 type: text/vnd.tiddlywiki
 
 [img[$:/plugins/bimlas/kin-filter/README/concept.svg]]
